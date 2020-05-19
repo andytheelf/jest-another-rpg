@@ -1,0 +1,28 @@
+{
+    "name": "jest-another-rpg",
+    "version": "1.0.0",
+    "description": "RPG simulator",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andytheelf/jest-another-rpg.git"
+    },
+    "keywords": [
+        "RPG",
+        "based",
+        "fighting",
+        "game!"
+    ],
+    "author": "Andrea Ballew",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andytheelf/jest-another-rpg/issues"
+    },
+    "homepage": "https://github.com/andytheelf/jest-another-rpg#readme",
+    "devDependencies": {
+        "jest": "^26.0.1"
+    }
+}
