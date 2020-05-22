@@ -19,7 +19,6 @@ test("gets enemy's health value", () => {
 
     expect(enemy.getHealth()).toEqual(expect.stringContaining(enemy.health.toString()));
 });
-
 test('checks if enemy is alive or not', () => {
     const enemy = new Enemy('goblin', 'sword');
 
